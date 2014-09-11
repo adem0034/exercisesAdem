@@ -1,0 +1,17 @@
+If you want to continue making changes and pushing them to GitHub you’ll just need to use the following three commands:
+
+git add .
+
+git commit -m "type your commit message here"
+
+git push origin master
+
+
+
+hvis man vil slette:
+
+git rm -FILE_NAME.txt
+
+git commit -m "type commit msg here"
+
+git push origin master
